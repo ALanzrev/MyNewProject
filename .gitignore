@@ -1,6 +1,6 @@
 ### Python template
 __pycache__/
 *.py[cod]
-docker-compose.yamp
+docker-compose.yaml
 log/
 resorses/products.json
