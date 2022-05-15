@@ -1,0 +1,6 @@
+### Python template
+__pycache__/
+*.py[cod]
+docker-compose.yamp
+log/
+resorses/products.json
